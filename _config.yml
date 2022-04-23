@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: Kevin Dong
+email: dongk@live.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/home/" 
+url: "https://dongkevin.github.io/umbrella"
 
-twitter_username:
-github_username:
+twitter_username: dongkevin
+github_username: dongkevin
 
 # Build settings
 markdown: kramdown
